@@ -1,2 +1,0 @@
-pares: 2 4 
-vetor original: 1 2 3 4 5 
