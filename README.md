@@ -1,4 +1,4 @@
 # C-RoadStudy
-A repository to share my knowledge in dynamic alocation, pointers, vectors, abstratic data type...
+A repository to share my knowledge in dynamic alocation, pointers, vectors, abstratic data type, Lists...
 
-SOON...(FIFO, LIFO, Lists, Binary Three)
+SOON...(FIFO, LIFO, Binary Three)
